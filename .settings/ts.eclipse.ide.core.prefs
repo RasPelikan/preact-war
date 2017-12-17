@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+embeddedTypeScriptId=TypeScript (2.3.3)
+installedTypeScriptPath=${project_loc\:src/main/frontend/node_modules/typescript}
+nodeJSEmbedded=node-v6.9.4-win-x64
+nodeJSPath=${project_loc\:target/node/node.exe}
+tsserverEmulatePlugins=false
+tsserverTraceOnConsole=false
+typeScriptBuildPath={"src/main/frontend/tsconfig.json"\:{}}
+useEmbeddedTypeScript=true
+useNodeJSEmbedded=true

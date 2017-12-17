@@ -1,0 +1,24 @@
+{
+  "author": "pelikast",
+  "name": "preact-test",
+  "version": "0.0.0",
+  "description": "Generated with typescript.java",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.6.1",
+    "bulma-loader": "^1.0.1",
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "font-awesome": "^4.7.0",
+    "node-sass": "^4.7.2",
+    "preact": "^8.2.7",
+    "preact-router": "^2.6.0",
+    "sass-loader": "^6.0.6",
+    "save": "^2.3.2",
+    "style-loader": "^0.19.1",
+    "ts-loader": "^3.2.0",
+    "typescript": "^2.6.2",
+    "typings-for-css-modules-loader": "^1.7.0",
+    "webpack": "^3.10.0"
+  }
+}

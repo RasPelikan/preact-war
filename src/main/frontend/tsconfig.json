@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"outDir": "../../../target/preact-war-0.0.1-SNAPSHOT/public/",
+		"baseUrl": ".",
+		"target": "es5",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"noImplicitAny": true,
+		"allowSyntheticDefaultImports": true,
+		"removeComments": true,
+		"sourceMap": true,
+		"jsx": "react",
+		"jsxFactory": "h"
+	},
+	"include": [
+		"./**/*.tsx",
+		"./**/*.ts"
+	],
+	"compileOnSave":true,
+	"buildOnSave": true
+}
